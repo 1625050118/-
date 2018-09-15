@@ -1,4 +1,4 @@
 # abc.md<br>
-[abc.md](https://1625050118.github.io/self-introduce/abc)<br>
+[abc.md](./abc)<br>
 # introduction.md<br>
-[introduction.md](https://1625050118.github.io/self-introduce/introduction)<br>
+[introduction.md](./introduction)<br>
